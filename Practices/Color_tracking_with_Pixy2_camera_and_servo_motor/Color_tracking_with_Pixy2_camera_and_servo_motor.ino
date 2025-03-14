@@ -38,7 +38,7 @@ void loop() {
         posicionServo = constrain(posicionServo, 0, 180);
         servoMotor.write(posicionServo); // Mover el servo
     } else {
-        Serial.println("Objeto amarillo NO detectado.");
+        Serial.println("Objeto de color NO detectado.");
     }
 
     delay(100); // Pequeña pausa antes de la siguiente lectura
