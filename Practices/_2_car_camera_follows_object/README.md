@@ -5,10 +5,10 @@
 
 ## Autors:
 
-Choquerive Edwin
-Miranda Gutierrez Cesar Alvaro
-Vera Miranda Luis Gustavo
-Gunar 
+### Choquerive Edwin
+### Miranda Gutierrez Cesar Alvaro
+### Vera Miranda Luis Gustavo
+### Gunar 
 
 # Look
 
