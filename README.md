@@ -6,6 +6,6 @@
 - **Gestión:** 01 / 2025
 - **Integrantes del grupo:**
   - Choquerive Quispe Erwing
-  - Nombre 2
+  - Miranda Gutierrez Cesar Alvaro
   - Nombre 3
   - Nombre 4
