@@ -7,5 +7,5 @@
 - **Integrantes del grupo:**
   - Choquerive Quispe Erwing
   - Miranda Gutierrez Cesar Alvaro
-  - Nombre 3
+  - Vera Miranda Luis Gustavo
   - Nombre 4
