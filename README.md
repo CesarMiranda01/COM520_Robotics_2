@@ -8,4 +8,4 @@
   - Choquerive Quispe Erwing
   - Miranda Gutierrez Cesar Alvaro
   - Vera Miranda Luis Gustavo
-  - Nombre 4
+  - Huanca León Carlos Gunar
