@@ -3,9 +3,6 @@
 ## Construcción
 ![Foto del carrito](car.jpg)
 
-## Demostración
-![Demostración](img_gif.gif)
-
 ## Componentes
 
 ### Kit Chasis de 2 ruedas para Carrito Robot
@@ -28,3 +25,6 @@
 ### Otros
 - Interruptor pequeño a presión (10x15 mm, 2 pines, 250V, On/Off)
 - Cables jumper (10 cm, M-M / M-H / H-H)
+
+## Demostración
+![Demostración](img_gif.gif)
