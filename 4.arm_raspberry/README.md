@@ -18,11 +18,11 @@ Una vez que el objeto ha sido identificado, se analiza su posición espacial (iz
 - Trupan 60cm x 60cm 3mm y 5mm
 - Cierra para cortar trupan 
 - Protoboard
-- Tornillo M3 x 50mm (5 uds)
-- Tornillo M3 x 18mm (5 uds)
-- Tornillo M3 x 15mm (5 uds)
-- Tornillo M3 x 12mm (6 uds)
-- Tornillo M3 x 10mm (14 uds)
+- Tornillo M3 x 50mm (5 unidades)
+- Tornillo M3 x 18mm (5 unidades)
+- Tornillo M3 x 15mm (5 unidades)
+- Tornillo M3 x 12mm (6 unidades)
+- Tornillo M3 x 10mm (14 unidades)
 - Tuercas de 3mm
 - Taladro 
 - Broca para madera 3mm 
