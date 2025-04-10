@@ -10,10 +10,22 @@
 Una vez que el objeto ha sido identificado, se analiza su posición espacial (izquierda, centro o derecha) en el entorno de trabajo. Posteriormente, el sistema calcula y ejecuta la rotación de los servomotores para posicionar correctamente el brazo y proceder con el levantamiento preciso del objeto.</p>
 
 ## 📚 Materiales
-- lista
-- lista
-- lista1
-- lista1
+- Webcam
+- Fuente de tensión y corriente regulable 
+- Raspberry Pi Foundation
+- Motores servo MG995 (4 unidades)
+- Cable jumper 10cm M-M, M-H, H-H
+- Trupan 60cm x 60cm 3mm y 5mm
+- Cierra para cortar trupan 
+- Protoboard
+- Tornillo M3 x 50mm (5 uds)
+- Tornillo M3 x 18mm (5 uds)
+- Tornillo M3 x 15mm (5 uds)
+- Tornillo M3 x 12mm (6 uds)
+- Tornillo M3 x 10mm (14 uds)
+- Tuercas de 3mm
+- Taladro 
+- Broca para madera 3mm 
 
 ## 🔗 Enlaces De Referencia
 <p>
