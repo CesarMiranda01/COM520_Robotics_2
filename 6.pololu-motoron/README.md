@@ -5,10 +5,10 @@ Este proyecto consiste en la construcción de un pequeño carro robótico contro
 ## 📦 Materiales
 
 - 1 × Raspberry Pi
-- 1 × Controlador de motores Motoron
-- 2 × Motores DC compatibles con Motoron
+- 2 × Controlador de motores Motoron
+- 4 × Motores DC compatibles con Motoron
 - 1 × Chasis para carrito
-- 2 × Ruedas compatibles con los motores
+- 4 × Ruedas compatibles con los motores
 - 1 × Batería o fuente de alimentación para motores
 - Cables jumper
 - Tornillos y sujetadores
@@ -25,7 +25,7 @@ Para conectar el controlador Motoron (como el M3H256 o M2H) a la Raspberry Pi, r
 
 - GND: Conectar al pin GND de la Raspberry Pi.
 - VIN: Conectar a la fuente de alimentación de los motores.
-- M1A/M1B, M2A/M2B: Conectar los motores a estos pines.
+- M3A/M3B, M2A/M2B: Conectar los motores a estos pines.
 - SDA: Conectar al pin GPIO 2 (SDA) de la Raspberry Pi.
 - SCL: Conectar al pin GPIO 3 (SCL) de la Raspberry Pi.
 - 3V3 o IOREF: Conectar al pin de 3.3V de la Raspberry Pi.
