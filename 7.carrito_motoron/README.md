@@ -33,7 +33,9 @@ Para conectar el controlador Motoron (como el M3H256 o M2H) a la Raspberry Pi, r
 
 2. Habilitar la interfaz I2C en la Raspberry Pi
 - Siga los siguientes pasos:
-- Ingrese a la configuración de la Raspberry Pi
+- Ingrese a la configuración de la Raspberry Pi.
+- Implementacion de encoders.
+- Implementacion del protocolo mqtt.
 
 <p align="center">
     <img src="assets/Screenshot_56.png" alt="ic2" width="60%">
