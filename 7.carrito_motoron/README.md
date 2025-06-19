@@ -1,6 +1,6 @@
-# 🚗 Robot Controlado con Motoron, Motores DC y Raspberry Pi
+# 🚗 CARRITO AUTONOMO CON MOTORON, MOTORED DC, RASPBERRY PI Y PILAS RECARGABLES
 
-Este proyecto consiste en la construcción de un pequeño carro robótico controlado mediante una **Raspberry Pi** y el controlador de motores **Motoron** de Pololu. Utiliza motores DC para desplazarse y puede ser programado para moverse de forma autónoma o controlada remotamente.
+Este proyecto consiste en la construcción de un pequeño carro robótico controlado mediante una **Raspberry Pi** y el controlador de motores **Motoron** de Pololu. Utiliza motores DC para desplazarse y puede ser programado para moverse de forma autónoma o controlada remotamente, el carrito usa la energia de dos pilas de dron para su funcionamiento y mayor autonomia.
 
 ## 📦 Materiales
 
@@ -9,12 +9,13 @@ Este proyecto consiste en la construcción de un pequeño carro robótico contro
 - 4 × Motores DC compatibles con Motoron
 - 1 × Chasis para carrito
 - 4 × Ruedas compatibles con los motores
-- 1 × Batería o fuente de alimentación para motores
+- 2 × Bateria de dron.
+- 2 × Protoboard.
 - Cables jumper
 - Tornillos y sujetadores
 
 <p align="center">
-    <img src="assets/gif_chasis.gif" alt="construccion" width="60%">
+    <img src="assets/chasis.jpeg" alt="construccion" width="60%">
 </p>
 
 
