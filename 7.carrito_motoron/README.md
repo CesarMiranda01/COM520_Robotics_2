@@ -37,25 +37,18 @@ Para conectar el controlador Motoron (como el M3H256 o M2H) a la Raspberry Pi, r
 - Implementacion de encoders.
 - Implementacion del protocolo mqtt.
 
-<p align="center">
-    <img src="assets/Screenshot_56.png" alt="ic2" width="60%">
-</p>
+
 
 - Verica que las siguientes opciones estén habilitadas.
 - Guarde los cambios y reinicie la Raspberry Pi.
 
-<p align="center">
-    <img src="assets/Screenshot_57.png" alt="ic2" width="60%">
-</p>
+
 
 3. Verificar conexión del Motoron:
 - Esciba el siguiente comando en el bash
 ```bash
 i2cdetect -y 1
 ```
-<p align="center">
-    <img src="assets/Screenshot_58.png" alt="ic2" width="60%">
-</p>
 
 4. Cambiar dirección I2C del Motoron (opcional)
 
