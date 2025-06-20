@@ -276,6 +276,7 @@ Separar la alimentación de la Raspberry Pi y los motores para evitar interferen
 * Una batería para la Raspberry Pi (5V, mínimo 2A)
 * Otra batería para los motores (10V)
 * Asegurar GND común entre ambas fuentes para comunicación adecuada
+* 2 Reguladores de tensión.
 
 ### 📱 Comunicación MQTT
 
