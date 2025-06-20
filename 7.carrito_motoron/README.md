@@ -278,9 +278,9 @@ Separar la alimentación de la Raspberry Pi y los motores para evitar interferen
 * Asegurar GND común entre ambas fuentes para comunicación adecuada
 * 2 Reguladores de tensión.
 
-### Conexiones de todos los componentes
+### Conexiones de todos los componentes:
 <p align="center">
-    <img src="assets/carrito_armado.jpg" alt="" width="60%">
+    <img src="assets/carrito_armado.JPG" alt="" width="60%">
 </p>
 
 ### 📱 Comunicación MQTT
