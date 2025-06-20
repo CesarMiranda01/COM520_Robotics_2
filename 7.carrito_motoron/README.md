@@ -158,7 +158,7 @@ Para conectar el controlador Motoron (como el M3H256 o M2H) a la Raspberry Pi, r
 </p>
 
 3. Verificar conexión del Motoron:
-- Esciba el siguiente comando en el bash
+- Escriba el siguiente comando en el bash
 ```bash
 i2cdetect -y 1
 ```
@@ -166,7 +166,7 @@ i2cdetect -y 1
     <img src="assets/Screenshot_58.png" alt="ic2" width="60%">
 </p>
 
-4. Cambiar dirección I2C del Motoron (opcional)
+4. Cambiar dirección I2C del Motoron (opcional):
 
 * Preparar el dispositivo:
     - Asegúrate de que el pin JMP1 no esté conectado.
@@ -277,6 +277,11 @@ Separar la alimentación de la Raspberry Pi y los motores para evitar interferen
 * Otra batería para los motores (10V)
 * Asegurar GND común entre ambas fuentes para comunicación adecuada
 * 2 Reguladores de tensión.
+
+### Conexiones de todo los componentes
+<p align="center">
+    <img src="assets/carrito_armado.jpg" alt="" width="60%">
+</p>
 
 ### 📱 Comunicación MQTT
 
