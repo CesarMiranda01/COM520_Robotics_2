@@ -236,6 +236,16 @@ Detectar la rotación y velocidad de los motores para tareas de control de movim
     <img src="assets/encoder_rueda.jpeg" alt="" width="70%">
 </p>
 
+#### Instalación de GPIO
+``` bash
+sudo apt-get update
+sudo apt-get install python3-rpi.gpio
+
+# o realizar la instalacion mediante pip
+
+pip3 install RPi.GPIO
+```
+
 ### ⚙️ Pasos
 
 1. Conectar salidas de encoder (A/B) a GPIOs configurables como entradas.
@@ -243,6 +253,11 @@ Detectar la rotación y velocidad de los motores para tareas de control de movim
 3. Usar interrupciones para contar pasos.
 
 ## Para la prueba del funcionamiento se ejecutaron los sgtes archivos:
+
+### Instalar libreria matplotlib
+```bash
+pip install matplotlib
+```
 
 ### 1. Este archivo se usa para detectar los valores mínimos y máximos de velocidad de cada rueda y obtiene una gráfica del controlador PID
 ```python
@@ -313,11 +328,26 @@ Más información en la documentación oficial: [https://mosquitto.org/](https:/
 ``` bash
 pip install paho-mqtt
 ```
+#### Instalación de GPIO
+``` bash
+sudo apt-get update
+sudo apt-get install python3-rpi.gpio
 
-#### 🧠 Ejecución de código
+# o realizar la instalacion mediante pip
+
+pip3 install RPi.GPIO
+```
+
+#### 🧠 Ejecución de código server
 
 ```python
-python mqtt.py
+python mqtt_server.py
+```
+
+#### 🧠 Ejecución de código cliente
+
+```python
+python mqtt_client.py
 ```
 
 ---
@@ -325,7 +355,6 @@ python mqtt.py
 ## 📸 Resultados
 
 <p align="center">
-    <img src="assets/gif_chasis.gif" alt="construccion" width="60%">
 </p>
 
 ---
