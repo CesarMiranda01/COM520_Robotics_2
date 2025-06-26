@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import time
 import json
 import atexit
-import RobotController
+from models import RobotController
 
 
 # --- CONFIGURACIÓN ---

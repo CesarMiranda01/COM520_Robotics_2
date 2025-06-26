@@ -266,7 +266,7 @@ python tuner.py
 
 ### 2. Este archivo se controla los movimientos de las ruedas en ambos sentidos
 ```python
-python checker.py
+python motor_cheker.py
 ```
 
 
